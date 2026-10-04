@@ -1,8 +1,7 @@
-\documentclass[11pt,a4paper,openany]{book}
+\documentclass[11pt,a4paper,twoside,openright]{book}
 \usepackage{fontspec}
 \usepackage{polyglossia}
 \setdefaultlanguage{spanish}
-\setmainfont{TeX Gyre Pagella}
 \usepackage{newunicodechar}
 \newunicodechar{ⁿ}{\textsuperscript{n}}
 \newunicodechar{→}{\ensuremath{\rightarrow}}
@@ -10,42 +9,41 @@
 \newunicodechar{−}{\ensuremath{-}}
 \newunicodechar{×}{\ensuremath{\times}}
 \newunicodechar{÷}{\ensuremath{\div}}
-\usepackage[margin=2.5cm]{geometry}
+\usepackage[a4paper,textwidth=14.5cm,textheight=23cm,inner=3cm,headsep=1cm]{geometry}
+\usepackage{microtype}
 \usepackage[table]{xcolor}
-\definecolor{navy}{HTML}{1F3864}
-\usepackage[most]{tcolorbox}
+\colorlet{navy}{black}
 \usepackage{xltabular}
+\renewcommand{\arraystretch}{1.25}
 \usepackage{enumitem}
-\setlist{itemsep=2pt,topsep=4pt}
-\usepackage{titlesec}
-\titleformat{\chapter}[display]{\normalfont\bfseries\color{navy}}{\large\scshape Capítulo \thechapter}{8pt}{\LARGE}
-\titleformat{\section}{\normalfont\Large\bfseries\color{navy}}{\thesection.}{0.5em}{}
-\titleformat{\subsection}{\normalfont\large\bfseries\color{navy}}{\thesubsection.}{0.5em}{}
+\setlist{itemsep=1pt,topsep=4pt}
 \setcounter{secnumdepth}{2}
 \setcounter{tocdepth}{1}
 \usepackage{fancyhdr}
 \pagestyle{fancy}\fancyhf{}
-\fancyhead[LE,RO]{\small\thepage}
-\fancyhead[RE]{\small\itshape Responsabilidad extracontractual del Estado}
-\fancyhead[LO]{\small\itshape\nouppercase{\leftmark}}
-\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+\fancyhead[LE,RO]{\thepage}
+\fancyhead[RE]{\small\scshape Responsabilidad extracontractual del Estado}
+\fancyhead[LO]{\small\scshape\ifnum\value{chapter}>0 Capítulo \thechapter\fi}
+\renewcommand{\headrulewidth}{0pt}
+\fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\thepage}}
 \usepackage[hidelinks]{hyperref}
 \hypersetup{pdftitle={Responsabilidad extracontractual del Estado -- Manual},pdfauthor={Juliana Hernández Galvis}}
-\setlength{\parskip}{4pt}
-\newtcolorbox{definicion}{enhanced,breakable,colback=navy!6,colframe=navy,boxrule=0pt,leftrule=3pt,sharp corners,before upper={\textbf{\color{navy}Definición.}\ }}
-\newtcolorbox{ejemplo}{enhanced,breakable,colback=green!5!white,colframe=green!45!black,boxrule=0pt,leftrule=3pt,sharp corners,before upper={\textbf{\color{green!35!black}Ejemplo.}\ }}
-\newtcolorbox{comentario}{enhanced,breakable,colback=yellow!8!white,colframe=orange!70!black,boxrule=0pt,leftrule=3pt,sharp corners,before upper={\textbf{\color{orange!50!black}Comentario.}\ }}
-\newtcolorbox{cita}{enhanced,breakable,colback=white,colframe=navy!40,boxrule=0pt,leftrule=2pt,sharp corners,left=10pt,right=10pt,fontupper=\itshape\small}
-\newcommand{\formula}[1]{\begin{center}\fcolorbox{navy}{navy!5}{\parbox{0.8\linewidth}{\centering\bfseries #1}}\end{center}}
-\newcommand{\fuente}[1]{{\small\itshape\color{gray} #1\par}}
+\newenvironment{bloque}[1]{\par\smallskip\begin{list}{}{\leftmargin=1.5em\rightmargin=0pt}\item[]\textsc{#1.}\ }{\end{list}\smallskip}
+\newenvironment{definicion}{\begin{bloque}{Definición}}{\end{bloque}}
+\newenvironment{ejemplo}{\begin{bloque}{Ejemplo}}{\end{bloque}}
+\newenvironment{comentario}{\begin{bloque}{Comentario}}{\end{bloque}}
+\newenvironment{cita}{\begin{quote}\small}{\end{quote}}
+\newcommand{\formula}[1]{\begin{center}\itshape #1\end{center}}
+\newcommand{\fuente}[1]{{\footnotesize\itshape #1\par}}
 \begin{document}
 \frontmatter
 \begin{titlepage}\centering
-\vspace*{3cm}{\color{orange!50!black}\bfseries\large M\,A\,N\,U\,A\,L}\par\vspace{1cm}
-{\color{navy}\bfseries\Huge Responsabilidad extracontractual\\[6pt] del Estado\par}\vspace{1cm}
+\vspace*{3cm}{\large\scshape Manual}\par\vspace{1cm}
+{\Huge Responsabilidad extracontractual\\[6pt] del Estado\par}\vspace{1cm}
 {\itshape\large Daño, causalidad, títulos de imputación, responsabilidad por la actividad judicial y del legislador, reparación directa, Ley 2195 de 2022 y acción de repetición\par}\vfill
 {\large Teoría, normas, jurisprudencia y casos\par Derecho colombiano\par}\vspace{1.5cm}
-{\bfseries\Large Juliana Hernández Galvis\par}\vspace{4pt}{\large Octubre de 2026\par}
+{\scshape\Large Juliana Hernández Galvis\par}\vspace{4pt}{\large Octubre de 2026\par}
 \end{titlepage}
 \tableofcontents
 \input{capitulos/presentacion}

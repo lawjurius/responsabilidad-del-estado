@@ -102,7 +102,6 @@ Requiere **XeLaTeX** (TeX Live o MacTeX) con los paquetes `polyglossia`, `tcolor
 <div align="center">
 
 **Juliana Hernández Galvis**<br>
-Especialización en Derecho Procesal · Universidad Libre, Seccional Socorro<br>
 Octubre de 2026
 
 <sub>Material de estudio elaborado a partir de las clases del curso. Las diapositivas y el contenido académico pertenecen a su autor.</sub>
