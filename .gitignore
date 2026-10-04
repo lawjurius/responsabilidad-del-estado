@@ -1,0 +1,9 @@
+latex/*.aux
+latex/*.log
+latex/*.toc
+latex/*.out
+latex/*.fls
+latex/*.fdb_latexmk
+latex/*.xdv
+latex/manual.pdf
+.DS_Store

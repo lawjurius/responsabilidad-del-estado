@@ -1,0 +1,277 @@
+# Capítulo 7. Otros temas relacionados con la responsabilidad extracontractual del Estado
+
+## 7.1. Daños antijurídicos causados por la acción u omisión de los agentes judiciales
+
+El artículo 65 de la Ley 270 de 1996 (Estatutaria de la Administración de Justicia) prevé tres supuestos de responsabilidad del Estado por la actividad judicial:
+
+- Error judicial (jurisdiccional).
+- Privación injusta de la libertad.
+- Defectuoso funcionamiento de la administración de justicia.
+
+Todos parten de la noción de daño antijurídico (C-037 de 1996).
+
+## 7.2. El error judicial
+
+> **Definición.** **Error judicial:** daño causado por una providencia judicial que contiene un error.
+
+### 7.2.1. Primer presupuesto: el agotamiento de los recursos legales
+
+Si quien sufre el error no recurre la providencia y demanda al Estado, perderá el proceso por no cumplir el requisito del agotamiento de los recursos. Este requisito tiene una vinculación con el problema de la causalidad: la ley (art. 70 de la Ley 270 de 1996) establece que no agotar los recursos configura culpa exclusiva de la víctima. Tiene mucha lógica: si lo que causa el daño es una providencia equivocada, la víctima tiene un remedio para evitar el daño, que es recurrirla. El recurso es el instrumento procesal que busca la corrección del error y, desde el punto de vista de la responsabilidad, la herramienta para evitar que el daño se consume. Si la víctima no recurre, el daño ya no proviene de la decisión judicial, sino de su propia conducta omisiva.
+
+> **Ejemplo.** Freddy y Daniela. Freddy le vende un computador a Daniela por un millón de pesos mediante un contrato verbal y Daniela no le paga. Freddy demanda: pide que se declare la existencia del contrato y que se condene a Daniela. Gabriel, que estuvo presente en la venta, declara que escuchó toda la conversación y que fue clarísimo el precio. El juez niega las pretensiones porque el contrato no constaba por escrito. Hay dos errores judiciales claros: (i) en materia civil se acepta el contrato verbal, no tenía por qué constar por escrito (defecto sustantivo); y (ii) el juez no valoró la declaración de Gabriel (defecto fáctico o probatorio). ¿Puede Freddy demandar por error judicial? No, si no apela: tenía un camino para evitar que el error se consumara. Si no apela, hay culpa exclusiva de la víctima, porque con su omisión permitió que se configurara el daño.
+
+**¿Qué recursos deben agotarse?** La ley no indica qué tipo de recursos.
+
+- **Recursos ordinarios:** son abiertos; permiten formular cualquier reparo (normativo, probatorio, por cualquier razón).
+- **Recursos extraordinarios:** tienen causales taxativas (por ejemplo, la casación).
+
+El Consejo de Estado ha dicho que, en principio, solo debe exigirse el agotamiento de los recursos ordinarios: no se exige tutela ni la interposición de recursos extraordinarios. La lógica es que, como los recursos extraordinarios tienen causales taxativas, no tiene sentido exigirle a Freddy que presente casación si ninguna causal le permite enmendar el error concreto.
+
+> **Ejemplo.** Si Freddy apela y el tribunal vuelve a negar —ahora reconociendo que el contrato puede ser verbal, pero diciendo que no demostró el acuerdo y otra vez sin valorar el testimonio de Gabriel—, el problema es de valoración probatoria, y las causales de casación no están diseñadas para volver a cuestionar la valoración de las pruebas. Sería un error exigirle agotar la casación para demandar al Estado, porque no serviría para corregir el error que causa el daño.
+
+**Excepción: cuando el recurso extraordinario sí sirve para enmendar el error.** Algunos fallos han dicho que los extraordinarios sí deben agotarse cuando la situación específica permite que el recurso extraordinario enmiende el error judicial que es la fuente del daño.
+
+> **Ejemplo.** Supongamos que el tribunal le da la razón a Freddy y condena a Daniela a pagar 1.200.000 pesos, aunque en las pretensiones Freddy pidió con toda claridad solo 500.000. Hay un problema de congruencia: se le reconoció más de lo pedido. Daniela podría demandar por error judicial, pero tiene un recurso específico: el recurso extraordinario de revisión, por nulidad originada en la sentencia por violación del debido proceso por incongruencia (la Corte Suprema de Justicia ha dicho que puede invocarse esa causal cuando se viola la congruencia). Si Daniela no interpone la revisión, hay culpa exclusiva de la víctima: podía cuestionarlo y no lo hizo.
+
+> **Comentario.** La tutela. El Consejo de Estado, en su posición mayoritaria, ha dicho que no es necesario agotar la tutela. Esto es discutible, porque hoy la tutela contra providencias judiciales permite discutir prácticamente todos los errores (defecto sustantivo, procedimental, orgánico o de competencia, error inducido, violación directa de la Constitución, desconocimiento del precedente: las causales de procedencia de la tutela contra providencias). No exigirla equivale casi a decirle al demandante: «no haga nada y demande al Estado cuando se equivoque».
+
+### 7.2.2. Segundo presupuesto: la providencia debe estar en firme
+
+La Ley 270 exige que la providencia que contiene el error esté en firme para poder demandar. Por eso, si se apeló, hay que esperar a que se resuelva la apelación: mientras la providencia no esté en firme, no produce efectos y, en consecuencia, no hay daño que pueda demandarse.
+
+**Efectos de los recursos**:
+
+- **Efecto suspensivo:** se suspende el cumplimiento de la providencia y el proceso no puede avanzar hasta que se resuelva el recurso.
+- **Efecto devolutivo:** la providencia se cumple y el proceso continúa.
+- **Efecto diferido:** la providencia recurrida no se cumple, pero el proceso continúa.
+
+### 7.2.3. Problemáticas del error judicial
+
+**a) Providencias que no están en firme, pero que produjeron efectos.** Hay casos en los que la lógica de la firmeza pierde su razón de ser. El Consejo de Estado ha reconocido dos excepciones:
+
+> **Ejemplo.** Primera excepción – El caso Telecom (recurso concedido en efecto distinto al suspensivo). Después de la liquidación de Telecom, unos 120 extrabajadores presentaron una tutela contra el patrimonio remanente de Telecom reclamando una prima o bonificación laboral nunca reconocida. El juez de primera instancia concedió el amparo y ordenó pagar una indemnización muy alta. Como las tutelas se cumplen de inmediato, Telecom pagó e impugnó, alegando que la tutela era improcedente por falta de inmediatez (Telecom se había liquidado cinco o diez años antes) y de subsidiariedad (debían demandar ante la jurisdicción laboral). El tribunal revocó y la Corte Constitucional confirmó la improcedencia y compulsó copias, porque se descubrió un escándalo de corrupción (varios jueces habían expedido sentencias similares). Telecom demandó al Estado, porque pagó una plata que nunca le devolvieron. El tribunal negó la demanda porque la providencia que contenía el error no estaba en firme (había sido revocada). El Consejo de Estado dijo que, aunque la providencia no estuviera en firme, en este caso la exigencia no tenía sentido, porque la impugnación no se concede en efecto suspensivo y la providencia produjo efectos.
+
+> **Ejemplo.** Segunda excepción – La medida cautelar revocada. En un proceso ejecutivo de Freddy contra Daniela se embargan la casa de Daniela y parte de su sueldo o de su cuenta bancaria. La medida cautelar dura seis meses, hasta que el juez la revoca reconociendo que Daniela ya había pagado y lo había demostrado oportunamente con la excepción de pago (o que no existía título ejecutivo). Si se aplicara la ley al pie de la letra, Daniela no podría demandar porque la medida ya no está en firme; pero el Consejo de Estado dijo que esa providencia produjo efectos durante seis meses, y eso es lo que le causó el daño.
+
+> **Comentario.** Precisiones. ¿Es necesario que comparezca el juez que profirió la providencia? No: la providencia habla por sí sola; los razonamientos internos del juez son irrelevantes. ¿Qué se pediría en el caso del embargo? Los perjuicios que causó la medida (por ejemplo, el dinero que se dejó de recibir o el préstamo que hubo que pedir por no tener liquidez).
+
+**b) Individualización del daño y el problema de la cosa juzgada: la «dura realidad» del error judicial.** El error judicial siempre se origina en un proceso judicial con dos partes (A contra B), civil, laboral o de cualquier tipo. Hay casos en que el error es claro (como el de Freddy). Pero la «dura realidad» del 90 o 95 % de los casos es otra: A pierde en primera instancia y pierde con razón; apela y vuelve a perder con razón. Sin embargo, el litigante le dice al cliente que todo es «súper arbitrario», le sigue cobrando honorarios, propone casación, luego tutela, y cuando se la declaran improcedente, demanda al Estado por error judicial ante el juez de reparación directa. Ha sido incluso un tema del Sistema Interamericano: «es el abuso más grande del derecho». El error judicial se ha convertido en la vía para generar una tercera, cuarta, quinta, sexta o séptima instancia.
+
+**La respuesta del Consejo de Estado: la identidad de pretensiones.** Ante esa realidad, el Consejo de Estado adoptó una posición muy cerrada: si A perdió el proceso y demanda al Estado, las pretensiones de la reparación directa no pueden ser las mismas del proceso original. Si A reclama al Estado el mismo millón de pesos que reclamaba a la otra parte, evidencia que está usando la reparación directa como una instancia más para volver a discutir lo que perdió; cuando hay identidad de pretensiones, se cierra el camino de la responsabilidad por error jurisdiccional.
+
+> **Comentario.** Valoración: la salida tiene sentido para evitar el abuso, pero corta demasiado fuertemente la responsabilidad del Estado. ¿Qué pretensiones distintas va a formular quien sí tenía derecho, si su daño consiste justamente en no haber podido acceder a sus pretensiones? En la práctica, si quien pierde es el demandante A y luego demanda al Estado, casi siempre le dicen que no. El error jurisdiccional suele prosperar cuando se condena injustamente a B (el demandado), porque como B no formuló pretensiones puede alegar que le impusieron una condena sin sentido; es lo que ocurrió en el caso Telecom. Si los extrabajadores de Telecom hubieran tenido razón y demandaran al Estado por lo mismo, muy seguramente les dirían que no.
+
+**c) Error judicial contenido en providencias de altas cortes (C-037 de 1996).** La Ley 270 tuvo control de constitucionalidad. La Corte Constitucional declaró exequible el régimen de responsabilidad por error judicial, pero lo moduló: siempre y cuando el error no provenga de una providencia de una alta corte. Afortunadamente, el Consejo de Estado, en todas sus subsecciones, no ha aplicado esa modulación y ha dicho expresamente que es equivocada: las cortes también cometen errores judiciales, porque sus magistrados son jueces como cualquier otro ser humano; no importa que sea la Corte Suprema o un juzgado.
+
+**d) Cómputo de la caducidad cuando se ha interpuesto tutela.** Retomando el caso de Freddy: le negaron sus pretensiones en primera y segunda instancia porque, equivocadamente, le exigieron un contrato escrito. Antes de demandar al Estado, Freddy, diligente, presenta una tutela por defecto sustantivo (aplicaron mal o inaplicaron la norma del Código Civil) y por defecto fáctico (no valoraron los testimonios). En primera y segunda instancia la tutela se declara improcedente por falta de relevancia constitucional. ¿Desde cuándo se cuenta la caducidad? El Consejo de Estado la cuenta desde la ejecutoria de la providencia que contiene el error (la fuente del daño), no desde la tutela, lo que equivale a castigar a Freddy por haber sido un buen litigante. En cambio, si la tutela prospera y deja sin efecto la providencia, el Consejo de Estado sí cuenta la caducidad desde la sentencia de tutela, porque en ese momento se conoce la antijuridicidad del daño. En ese escenario, los perjuicios reclamables serían los que no se reconocieron luego en la sentencia ordinaria, la demora del proceso, los honorarios adicionales, etc. La regla resulta injusta: si la tutela revoca, se extiende la caducidad; si no revoca, no se extiende.
+
+**e) La incidencia material del error.** ¿Qué pasa si en el proceso de reparación directa se evidencia que el demandante de todos modos iba a perder por otra razón? El juez no puede cambiar la imputación fáctica ni «mover de título» el caso, pero dentro del análisis del error, incluso si se supera el problema de la identidad de pretensiones, el demandante debe acreditar que habría ganado el proceso. Si el tribunal negó por exigir una prueba solemne y, además, porque no había ninguna prueba sobre el precio del computador, el error no basta: había otra razón para negar. El solo error judicial no permite indemnizar automáticamente; hay que demostrar que tuvo una incidencia material en la decisión.
+
+> **Comentario.** La tensión del error judicial. En la práctica, incluso en la tutela contra providencias se han llegado a exigir estándares muy altos (como demostrar la mala fe de los jueces), y si el error no se logra demostrar por esa vía, es aún más difícil hacerlo luego como error judicial. Se entiende por qué la jurisprudencia es tan restrictiva: el error judicial no es una instancia más y los procesos deben tener cierre por seguridad jurídica. Pero pueden darse casos de errores reales: el juez debe ser muy cuidadoso para descartar los casos en los que el error judicial se usa como séptima, octava o novena instancia, y tener la sensibilidad de identificar los casos en que sí hubo un error y estudiarlos con juicio. Como estos casos llegan masivamente, es probable que, por ser tan restrictivos, algunos errores reales no se estudien adecuadamente.
+
+**f) Error judicial contenido en decisiones arbitrales.** Es otra de las problemáticas de la responsabilidad del Estado por error judicial.
+
+## 7.3. La privación injusta de la libertad
+
+En privación injusta de la libertad hay (o había) tres discusiones:
+
+- El régimen de responsabilidad aplicable.
+- El estudio de la culpa exclusiva de la víctima (la Ley 270 habla de culpa de la víctima, no de hecho de la víctima).
+- La liquidación de perjuicios.
+
+### 7.3.1. Normas
+
+> Decreto 2700 de 1991 (Código de Procedimiento Penal), art. 414: «Indemnización por privación injusta de la libertad. Quien haya sido privado injustamente de la libertad podrá demandar al Estado indemnización de perjuicios. Quien haya sido exonerado por sentencia absolutoria definitiva o su equivalente porque el hecho no existió, el sindicado no lo cometió, o la conducta no constituía hecho punible, tendrá derecho a ser indemnizado por la detención preventiva que le hubiere sido impuesta siempre que no haya causado la misma por dolo o culpa grave.»
+
+El art. 414 tenía dos partes y, por tanto, dos reglas: (i) quien fue privado injustamente de la libertad puede demandar; (ii) quien fue absuelto porque el hecho no existió, porque el sindicado no lo cometió o porque la conducta era atípica, tiene derecho a ser indemnizado y solo exonera al Estado la culpa de la propia víctima (dolo o culpa grave).
+
+> Ley 270 de 1996, art. 68: «PRIVACIÓN INJUSTA DE LA LIBERTAD. Quien haya sido privado injustamente de la libertad podrá demandar al Estado reparación de perjuicios.»
+
+### 7.3.2. Evolución del régimen de responsabilidad aplicable
+
+**a) Régimen objetivo para los casos del art. 414 y subjetivo para los demás.** El Consejo de Estado interpretó que en los tres eventos del art. 414 la responsabilidad es objetiva: el demandante no tiene que demostrar la ilegalidad de la medida de aseguramiento; solo exonera la culpa de la víctima. En todos los demás casos debe probarse la falla del servicio, esto es, la ilegalidad de la medida de aseguramiento; especialmente cuando la absolución se daba por duda (*in dubio pro reo*).
+
+> **Ejemplo.** El hecho no existió (es el supuesto menos frecuente). Un ciudadano israelí está en Santa Marta y su familia denuncia que fue secuestrado porque no saben dónde está. En un operativo, la Fiscalía lo encuentra en una finca con un mayordomo, a quien capturan y le imputan secuestro. El mayordomo dura privado de la libertad tres o cuatro meses. En el proceso, el israelí declara que estaba feliz: el mayordomo le conseguía trago y lo invitaba a fiestas. Lo absuelven porque el secuestro no existió: el israelí nunca estuvo allí contra su voluntad.
+
+> **Ejemplo.** El sindicado no lo cometió. Un abuelito se encuentra en la calle al novio de su nieta, varado en una camioneta, y lo ayuda. En ese momento llega la Policía: la camioneta era robada. Ambos son detenidos; el abuelito dura privado de la libertad unos tres meses y luego se precluye la investigación a su favor, porque el propio novio declara que el abuelito no tenía nada que ver.
+
+> **Ejemplo.** La conducta es atípica. Unos italianos que vivían en Cartagena se dedicaban los fines de semana a la caza deportiva en la Ciénaga de la Virgen y cazaron un pato. La Policía consideró que era un animal en peligro de extinción y que su muerte constituía delito. Duraron privados de la libertad tres o cuatro meses; luego se precluyó la investigación, porque la autoridad ambiental, citada al proceso penal, aclaró que ese pato no era de la especie en peligro de extinción y sí podía cazarse.
+
+**b) La Ley 270 de 1996.** La privación injusta como fuente de responsabilidad surge del art. 90 de la Constitución; luego vienen el Decreto 2700 de 1991 y la Ley Estatutaria 270 de 1996. Pero la Ley 270 solo reprodujo la primera parte del art. 414, no la segunda. El Consejo de Estado se preguntó entonces si en todos los casos debía exigir falla del servicio o aplicar responsabilidad objetiva. Durante muchos años siguió aplicando la regla del art. 414, incluso después de su derogatoria con el siguiente Código de Procedimiento Penal (Ley 600 de 2000): objetiva en los tres eventos; falla del servicio en los demás, especialmente en las absoluciones por duda.
+
+> **Comentario.** Caso: una persona condenada había informado su cambio de domicilio, pero la siguieron notificando en la dirección anterior; no pudo ejercer su defensa y su defensor público fue negligente. La Sala declaró la violación del debido proceso por indebida notificación y dejó sin ejecutividad la sentencia condenatoria, pero la persona sigue privada de la libertad porque el proceso volvió al juzgado de conocimiento y sigue en curso. ¿Opera la privación injusta? Hasta que no termine el proceso no se puede saber; mientras no haya una sentencia que absuelva (por duda, por prescripción, porque no cometió el delito o por cualquier razón) o su equivalente, todavía no hay antijuridicidad del daño. Que se haya retrotraído el proceso no convierte la privación en injusta: hay que esperar la sentencia, porque la persona podría ser condenada.
+
+**c) Unificación de 2006: responsabilidad objetiva en todos los casos.** La sentencia del Consejo de Estado (Sección Tercera) del 4 de diciembre de 2006 dijo que en todos los casos de privación injusta, incluidos los de *in dubio pro reo* o cualquier otra razón, la responsabilidad es objetiva y se fundamenta en el daño especial: la mayor ruptura del equilibrio ante las cargas públicas es dejar a una persona privada de la libertad, independientemente de que la providencia que impuso la medida de aseguramiento sea o no legal. Esta tesis se aplicó hasta 2018.
+
+**d) Unificación de 2018: regreso a la tesis anterior (CE, S3, 15 de agosto de 2018).** El Consejo de Estado volvió a aplicar la responsabilidad objetiva solo cuando el hecho no existió, la conducta es atípica o el sindicado no la cometió; en los demás casos hay que probar la falla del servicio. Hubo dos razones de fondo:
+
+- La primera, «que obviamente no está escrita en la sentencia»: pasó lo mismo que con el daño antijurídico; se empezó a decir que cualquier persona absuelta obtenía automáticamente su indemnización y que eso quebraba al Estado («ya se nos fue la mano»).
+- La segunda: casos en los que el juez de la reparación directa no estaba convencido de la inocencia de quien fue absuelto («a mí no me suena que sea tan inocente»; «creo que no se estudiaron bien las pruebas»), de modo que el juez de reparación directa vuelve a estudiar la conducta de quien fue declarado inocente en el proceso penal.
+
+> **Ejemplo.** El caso de la unificación de 2018: trata de personas. Un señor tenía un apartamento que, al parecer, se usaba como «puente» en una red de trata de personas: las víctimas se alojaban allí una noche antes de ir a Bogotá y viajar al exterior. Fue absuelto por duda, porque nunca se demostró si sabía o no que esas personas iban a ser víctimas de trata. Como fue absuelto por duda, el demandante debía probar la ilegalidad de la medida de aseguramiento y no la probó; el Consejo de Estado pudo haber cerrado ahí la discusión. Pero, además, se metió en el problema de la culpa exclusiva de la víctima: dijo que había culpa exclusiva porque el señor no fue lo suficientemente cuidadoso al determinar a quién le prestaba el apartamento y sus conductas no fueron del todo adecuadas al ordenamiento.
+
+**La línea del tiempo.** Para entender el problema hay que tener clarísima esta línea: (1) ocurren unos hechos, que son el objeto de la investigación penal (los hechos «delictivos»); (2) inicia la investigación penal; (3) se dicta la decisión absolutoria. La absolución abarca realmente esos hechos: el juez penal absuelve porque lo que pasó le parece irrelevante penalmente o porque no se llegó a una conclusión certera. El problema surge cuando el juez de la reparación directa vuelve sobre esos mismos hechos para encontrar una culpa de la víctima.
+
+> **Ejemplo.** El Airbnb. Usted es dueño de un apartamento que alquila por Airbnb en Medellín y alguien lo usa para cometer actos sexuales con una menor. Se inicia un proceso penal contra el agresor y contra el dueño del apartamento, a quien se absuelve por duda porque no hay pruebas. ¿Cómo podía saber el dueño? Según el razonamiento de la sentencia, se le negaría la indemnización por no haber sido lo suficientemente cuidadoso para saber que los huéspedes usaban el apartamento para esos fines.
+
+> **Comentario.** Duda e inocencia. La ausencia de pruebas no es duda, sino inocencia: si no se demostró nada que permitiera concluir que la persona sabía, debe absolverse por inocencia. Sin embargo, en la práctica la Fiscalía, casi siempre por instrucciones y directrices internas, pide absolver por duda, precisamente para evitar las demandas contra el Estado.
+
+**e) La Corte Constitucional (SU-072 de 2018).** Meses después, la Corte Constitucional, en sentencia de unificación, dijo que en privación injusta de la libertad hay *iura novit curia*: cada juez decide el título de imputación que considera procedente. Pero agregó que realmente solo hay dos casos en los que debería aplicarse la responsabilidad objetiva, ni siquiera tres: cuando el hecho no existió y cuando la conducta es atípica.
+
+*Sobre el régimen aplicable y la culpa exclusiva de la víctima son relevantes también: CE, S3, Subsección B, sentencia del 15 de noviembre de 2019, y Corte Constitucional, Sentencia SU-363 de 2021.*
+
+### 7.3.3. Perjuicios en la privación injusta de la libertad
+
+Las sentencias de unificación aplicables son:
+
+- CE, S3, sentencia de unificación del 28 de agosto de 2014.
+- CE, S3, sentencia de unificación del 18 de junio de 2019 (perjuicios materiales).
+- CE, S3, sentencia de unificación del 29 de noviembre de 2021 (perjuicios morales; ver Capítulo 4, sección 4.9.10).
+
+## 7.4. Defectuoso funcionamiento de la administración de justicia
+
+> Ley 270 de 1996, art. 69: «Defectuoso funcionamiento de la administración de justicia. Fuera de los casos previstos en los artículos 66 y 68 de esta ley, quien haya sufrido un daño antijurídico, a consecuencia de la función jurisdiccional tendrá derecho a obtener la consiguiente reparación.»
+
+Comprende los daños causados por acciones u omisiones de los agentes judiciales que no son causados por una providencia judicial: mora judicial, ejecución de medidas cautelares, notificaciones indebidas, remates judiciales.
+
+> **Ejemplo.** Un ejemplo es el caso del vehículo secuestrado en un proceso ejecutivo que fue robado del parqueadero y atropelló a un ciclista: se demandó al Estado por defectuoso funcionamiento, porque el secuestre tenía la custodia del vehículo (ver Capítulo 5, prohibición de regreso). También el del vehículo devuelto desvalijado tras el embargo (ver Capítulo 4).
+
+## 7.5. Responsabilidad por el hecho del legislador y del constituyente
+
+### 7.5.1. De la irresponsabilidad al daño especial
+
+- La tesis inicial era la irresponsabilidad, basada en el carácter general de la ley.
+- **Fallo La Fleurette (Consejo de Estado francés, 14 de enero de 1938):** rompimiento del equilibrio ante las cargas públicas.
+
+> **Ejemplo.** La Fleurette. En Francia, en 1938, el legislador expide una ley que prohíbe la producción, comercialización y exportación de ciertos productos lácteos para proteger la industria nacional. La Fleurette era la única empresa que producía y comercializaba ese producto: una ley general, abstracta e impersonal que en realidad solo afectaba a una empresa. La Fleurette demandó al Estado sin cuestionar la ley («la ley está muy bien»), pero alegó un daño especial: una ley impersonal y general solo la afectaba a ella, lo que rompía el equilibrio ante las cargas públicas. A partir de este caso se acepta en Francia la responsabilidad por el hecho del legislador.
+
+Requisito: debe haber una ley válida que genere un daño especial.
+
+### 7.5.2. El hecho del constituyente: irresponsabilidad (CE, S-470, 13 de diciembre de 1995)
+
+> **Ejemplo.** Con la Constitución de 1991 se convocaron nuevas elecciones y a los congresistas que venían ejerciendo se les recortó el período. Demandaron al Estado. El Consejo de Estado dijo en 1995 que no hay responsabilidad por el hecho del constituyente: la Constitución es un acto tan general que su expedición no puede generar daño.
+
+### 7.5.3. El hecho del legislador: daño especial (CE, IJ-001, 25 de agosto de 1998)
+
+> **Ejemplo.** La inmunidad de los agentes diplomáticos. Un agente diplomático de la embajada de Estados Unidos atropella a un peatón. El peatón no puede demandarlo porque el diplomático tiene inmunidad de jurisdicción en materia civil, en virtud de la Convención de Viena, incorporada al ordenamiento colombiano mediante una ley. La solución: demandar al Estado por el hecho del legislador. La aprobación de la Convención de Viena es constitucionalmente válida e impecable, pero genera una ruptura del equilibrio ante las cargas públicas: un daño especial, porque la víctima se quedó sin poder demandar. Por primera vez en Colombia se condenó al Estado por el hecho del legislador. Se reconocen los perjuicios del caso (daño emergente, lucro cesante, etc.).
+
+### 7.5.4. Daño causado por una ley declarada inexequible
+
+Sería el equivalente a la falla del servicio por el hecho del legislador. Ocurre especialmente en materia tributaria: ¿qué pasa si se paga un impuesto y luego la ley que lo creó es declarada inconstitucional? Depende de los efectos de la declaratoria de inexequibilidad. La regla general es que, si la Corte no señala nada sobre los efectos del fallo, estos son hacia el futuro: la ley se entiende válida hasta la sentencia.
+
+| Supuesto | Consecuencia |
+|---|---|
+| Inexequibilidad con efectos hacia el futuro | No hay daño antijurídico: cuando se hizo el pago, la ley era válida; había un título jurídico válido que imponía el deber de pagar (es un pago de lo debido). |
+| Inexequibilidad con efectos retroactivos y con orden de la Corte sobre los efectos producidos | No hay daño antijurídico (no hay daño). |
+| Inexequibilidad con efectos retroactivos sin orden de la Corte sobre los efectos producidos | Hay que provocar un pronunciamiento de la Administración. |
+
+> **Ejemplo.** Pago después de la sentencia. Si alguien paga cuando ya todo el mundo sabe que la ley fue declarada inexequible, hay un pago de lo no debido (y cierta culpa de quien paga). Si quien paga no se entera del fallo, lo usual es que se liquide el impuesto y se expida la factura correspondiente; si se paga después del fallo, es un problema de los efectos en el tiempo.
+
+> **Ejemplo.** La reforma tributaria declarada inexequible. En el gobierno de Duque se presentó una reforma tributaria que eliminó unas exenciones que favorecían a quienes trabajaban en la Rama Judicial, por lo que esos servidores tuvieron que pagar más en su declaración de renta. Tres o cuatro meses después, la Corte Constitucional declaró inexequible la reforma, pero se pronunció expresamente sobre los efectos: lo pagado se tendría como saldo a favor en las siguientes declaraciones de renta. No hay responsabilidad, porque no hay daño. En los últimos fallos tributarios, la Corte suele pronunciarse expresamente sobre los efectos para evitar demandas contra el Estado.
+
+**El caso problemático: efectos retroactivos sin orden sobre lo pagado.** El Consejo de Estado ya unificó la materia: no es un problema de responsabilidad extracontractual. Quien pagó debe provocar un acto administrativo ante la DIAN, porque el Estatuto Tributario tiene procedimientos administrativos para reclamar la devolución. Si la DIAN no devuelve el dinero, se demanda ese acto administrativo ilegal, no por la vía de la reparación directa, sino por la de nulidad y restablecimiento del derecho.
+
+## 7.6. El favorecimiento de la víctima (*favor victimae*)
+
+### 7.6.1. La tensión de origen: el Fallo Blanco
+
+> «(…) Que dicha responsabilidad no es ni general ni absoluta; que se rige por normas especiales que varían en función de las necesidades del servicio y de la necesidad de conciliar los derechos del Estado con los derechos privados; (…)» (Tribunal de Conflictos, 8 de febrero de 1873)
+
+Tensión entre:
+
+- Las necesidades del servicio (Estado prestador de servicios públicos).
+- Los derechos privados (de las víctimas).
+
+### 7.6.2. Manifestaciones sustanciales del *favor victimae*
+
+- Surgimiento de regímenes objetivos de responsabilidad (industrialización / daño antijurídico).
+- Solidaridad del artículo 2344 del C.C.
+- Proliferación de tipologías de perjuicios para romper los baremos jurisprudenciales.
+
+### 7.6.3. Aplicaciones procesales del *favor victimae*: la caducidad
+
+- Ocurrencia del daño (desde la Ley 167 de 1941: daños por obras públicas).
+- Regla especial para la desaparición forzada (Ley 589 de 2002): aparición de la víctima / fallo penal.
+- Conocimiento del daño (jurisprudencia / CPACA).
+
+> Corte Constitucional, SU-254 de 2013: «los términos de caducidad para población desplazada, en cuanto hace referencia a futuros procesos judiciales ante la jurisdicción contencioso administrativa, sólo pueden computarse a partir de la ejecutoria del presente fallo y no se han de tener en cuenta trascursos de tiempo anteriores, por tratarse, como antes se explicó, de sujetos de especial protección constitucional, en atención a sus circunstancias de vulnerabilidad extrema y debilidad manifiesta».
+
+> Consejo de Estado, Sección Tercera, SU 61033 del 29 de enero de 2020: inaplicación «cuando [se] advierta que la no comparecencia ante la administración de justicia se encuentra justificada por razones materiales, pues el paso del tiempo no puede empezar a correr contra quien no goza del acceso efectivo a la administración de justicia, lo cual, se insiste, depende de las circunstancias especiales de cada sujeto».
+
+### 7.6.4. Aplicaciones procesales del *favor victimae*: las pruebas
+
+- Regímenes de falla presunta del servicio (falla médica hasta antes de 2006).
+- Carga dinámica de la prueba.
+- Presunción de perjuicios morales derivada del parentesco.
+- Presunción de ingresos equivalentes al salario mínimo.
+- «Flexibilización» probatoria en casos de graves violaciones de derechos humanos.
+
+> **Comentario.** Varias de estas aplicaciones son objeto de crítica: la flexibilización de la caducidad en casos de derechos humanos y de desplazamiento (Capítulo 4, sección 4.3), la presunción del parentesco y del salario mínimo (Capítulo 4) y la flexibilización probatoria por el «contexto de orden público» en actos terroristas (Capítulo 6, sección 6.4.4).
+
+### 7.6.5. Reflexiones: ¿quién debe crear las reglas?
+
+- **Reglas sustantivas:** el favorecimiento de la víctima en la responsabilidad extracontractual del Estado es una política pública que tiene incidencia en el presupuesto estatal.
+- **Reglas procesales:** poder de configuración legislativa (art. 150-2 de la C.P.) / intervención residual del juez ante lagunas o antinomias normativas.
+
+Tensión entre el legislador y el juez.
+
+### 7.6.6. ¿Es válida la aplicación judicial del *favor victimae* en materia procesal?
+
+- Principio de igualdad de partes (paridad de oportunidades o igualdad de armas) / función igualadora del proceso.
+- Principio de imparcialidad (ausencia de prejuicios).
+- Argumento retórico sin implicaciones prácticas.
+- Interpretaciones judiciales *contra legem*.
+
+### 7.6.7. Reflexión final
+
+> «(…) Si [bien] el criterio para distinguir lo justo de lo injusto es necesariamente ambiguo, quien está con la víctima no se equivoca nunca (…)» (Daniele Giglioli, *Crítica de la víctima*)
+
+## 7.7. Responsabilidad precontractual
+
+**Eventos:**
+
+- Revocatoria del acto de apertura del procedimiento de selección.
+- Revocatoria del acto de adjudicación, antes de la celebración del contrato.
+- Ilegalidad de la adjudicación del contrato (sin celebración del contrato) o del acto que declara desierto el procedimiento de selección.
+- Abstención de celebración del contrato, luego de su adjudicación.
+
+**Fundamentos:**
+
+- Principio de legalidad (art. 6 de la C.P.).
+- Principio de buena fe (art. 83 de la C.P.).
+- Culpa *in contrahendo* (art. 863 del C.Co.).
+- Inaplicabilidad de otros fundamentos del Código Civil y del Código de Comercio.
+
+**Perjuicios:**
+
+- **Interés positivo:** la utilidad prevista en la propuesta.
+- **Interés negativo:** es excluyente (los gastos en los que se incurre para la presentación de la propuesta deben ser asumidos por el contratista para efectos de obtener la utilidad).
+
+## 7.8. Responsabilidad contractual: la existencia del contrato
+
+- El contrato estatal es solemne (art. 41 de la Ley 80 de 1993).
+- Excepción: contratación de mínima cuantía (oferta + aceptación de la oferta = contrato estatal) (art. 2 de la Ley 1150 de 2007).
+- Controversia: los hechos cumplidos.
+
+### 7.8.1. Sentencia de unificación de 2012
+
+Eventos en los que es admisible reclamar la compensación del enriquecimiento sin causa, «entre otros»:
+
+- Constreñimiento de la entidad estatal.
+- Prestación de un servicio para evitar una amenaza o una lesión inminente e irreversible al derecho a la salud.
+- Omisión de declaratoria de urgencia manifiesta.
+
+Nota I: en los demás eventos es inadmisible, por inexistencia de buena fe objetiva.
+
+Nota II: problema procesal / reparación directa.
+
+### 7.8.2. Sentencia de unificación de 2025
+
+- Demostración, por parte del interesado, del acaecimiento de una circunstancia extraordinaria, sustentada en razones de interés general:
+  - Análisis de la gravedad y urgencia en la continuidad de un servicio.
+  - La excepcionalidad no puede ser empleada como excusa para el desconocimiento de las normas del EGCAP.
+- No depende de causas taxativas.
+- Conducta de las partes.
+- Constreñimiento → rectificación: responsabilidad extracontractual por falla del servicio.
+
+> **Comentario.** Una condena por un «hecho cumplido» (por ejemplo, un kilómetro de carretera construido y no pagado al contratista) o por desequilibrio no es indemnizatoria sino restitutoria (ver Capítulo 10).

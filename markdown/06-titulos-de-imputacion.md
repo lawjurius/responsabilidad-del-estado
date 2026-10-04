@@ -1,0 +1,163 @@
+# Capítulo 6. Títulos de imputación
+
+## 6.1. Factores de atribución en la responsabilidad extracontractual civil
+
+- **Art. 2341 del C.C.: la culpa** (regla general).
+- **Art. 2356 del C.C.: actividades peligrosas** (excepción). Se discute: ¿riesgo (responsabilidad objetiva) o presunción de culpa?
+- **Otros criterios de atribución objetivos** (excepción): custodia y obligaciones de resultado.
+
+> **Comentario.** Síntesis: en materia civil el fundamento general es la culpa; excepcionalmente el riesgo, cuando se trata de actividades o instrumentos peligrosos, lo que permite aplicar un régimen objetivo. En el ámbito contractual, la responsabilidad objetiva se aplica ante obligaciones de custodia o de resultado. La lógica en la responsabilidad estatal es bastante parecida.
+
+## 6.2. Factores de atribución en la responsabilidad extracontractual del Estado (posición mayoritaria)
+
+- **Falla del servicio:** regla general. Es un régimen subjetivo de responsabilidad.
+- **Títulos o factores de imputación objetivos:** excepcionales. Son el riesgo excepcional (ante actividades peligrosas) y el daño especial (ante actividades lícitas del Estado que rompen el equilibrio frente a las cargas públicas).
+
+## 6.3. La falla del servicio
+
+### 6.3.1. Fundamento constitucional
+
+> «ARTÍCULO 16. Las autoridades de la República están instituidas para proteger a todas las personas residentes en Colombia, en sus vidas, honra y bienes, y para asegurar el cumplimiento de los deberes sociales del Estado y de los particulares.» (Constitución de 1886)
+
+Este artículo corresponde hoy, en términos bastante similares, al artículo 2.º de la Constitución de 1991.
+
+### 6.3.2. Características de la falla del servicio
+
+**a) Estándar del servicio (funcionamiento normal).** Al igual que la culpa, la falla del servicio se estudia por vía de comparación: se compara el estándar exigible del servicio con lo que hizo el demandado. Ese estándar está fijado por las normas aplicables a la entidad (de rango legal, reglamentario, normas internas, manuales de operación, etc.); la falla consiste en la violación de obligaciones legales. Se concreta en:
+
+- Falta de prestación (omisión).
+- Prestación tardía.
+- Prestación defectuosa.
+
+**b) Carácter relativo de la falla del servicio.** Las obligaciones del Estado son, por regla general, obligaciones de medio y no de resultado, y eso incide en la forma de estudiar la falla.
+
+> **Ejemplo.** El desplazamiento en el Alto Baudó (ejemplo de una clase anterior): ¿hasta qué punto responde el Estado si creó dos batallones e hizo cien misiones? Hay que preguntarse qué podía hacer razonablemente.
+
+**c) Carácter anónimo de la falla del servicio.** No es relevante identificar al agente concreto que causó el daño; basta explicar que fue ocasionado por la entidad.
+
+## 6.4. Regímenes de responsabilidad basados en la falla del servicio
+
+La falla del servicio es la regla general. Estos son los principales casos en que se aplica (no son todos):
+
+### 6.4.1. Responsabilidad médica
+
+Por regla general, en responsabilidad médica se exige la falla del servicio: si no está demostrada en el proceso, no se puede condenar a la entidad prestadora del servicio. Se abandonó el régimen de falla presunta (la falla médica presunta se aplicó hasta antes de 2006). Esta regla tiene tres excepciones, en las que se aplica responsabilidad objetiva:
+
+**a) Ginecobstetricia.** Si en el parto fallece la mujer o la persona que está naciendo, no se exige falla del servicio. La lógica del Consejo de Estado: las mujeres han podido dar a luz desde la prehistoria sin médicos ni hospitales; hoy, con médicos, hospitales y avances tecnológicos, no debe existir ningún riesgo para la madre ni para quien va a nacer. Se asimila casi a una obligación de resultado.
+
+**b) Cirugías estéticas.** Por la misma razón: lo que se busca con una cirugía estética es un resultado; si no se obtiene, hay responsabilidad objetiva.
+
+> **Ejemplo.** Un ejemplo popular es el programa de televisión «Cambio extremo» y la cirugía de René Higuita, cuyo resultado muchos no notaron, pero a quien su amigo, el «Bolillo» Gómez, le dijo en pleno programa que se veía «como un holandés»: «uno necesita en la vida un amigo así».
+
+**c) Infecciones nosocomiales (intrahospitalarias).** Son bacterias intrahospitalarias altamente resistentes a la limpieza y a los procedimientos de asepsia de los quirófanos. La persona va, por ejemplo, a que le saquen una muela, contrae la bacteria y esta le genera complicaciones muy graves, incluso la muerte.
+
+- **Consejo de Estado:** desde hace muchos años aplica responsabilidad objetiva. Es la solución correcta y justa: si la bacteria no puede ser erradicada por los procedimientos de limpieza, exigirle a la víctima que pruebe la falla del servicio es injusto, porque no es un problema de falla: por más limpieza que se haga, la bacteria sigue activa en el quirófano; es de su esencia. La diligencia no importa; no es elemento de la responsabilidad: el hospital nunca se exonera mostrando diligencia.
+- **Corte Suprema de Justicia:** exige la culpa: hay que demostrar que la clínica no limpió bien. Pero ¿cómo se demuestra la culpa si la bacteria es resistente a la limpieza? Si el quirófano se limpia cada semana, no habría culpa.
+
+> **Comentario.** Existe la posibilidad de que el tema se lleve a unificación en el Consejo de Estado para cambiar la posición y exigir la falla del servicio, lo que resultaría inadecuado y sin fundamento. Habrá que esperar a que se expida el auto que avoque conocimiento para unificar y a que la Sala Plena de la Sección Tercera unifique la materia.
+
+### 6.4.2. Daños sufridos por miembros de la fuerza pública (soldados regulares)
+
+Hay que distinguir entre los miembros profesionales de la fuerza pública y los conscriptos:
+
+- **Miembros profesionales (ingreso voluntario):** llegan por decisión propia («mi sueño toda la vida era ser policía»). Cuando ingresan, son conscientes de los riesgos: saben que serán enviados a misiones en las que exponen su vida y su integridad para mantener el orden público. Si sufren un daño (lesión o muerte) dentro del riesgo propio de la actividad, el Estado no responde. Solo responde cuando incrementa el riesgo al que está expuesto el soldado, lo que ocurre cuando incurre en falla del servicio.
+
+> **Ejemplo.** Un soldado muere en una operación de desmantelamiento de un laboratorio de coca en la que se cumplieron todos los requisitos (hubo inteligencia, apoyo militar y acompañamiento de la Fuerza Aérea) durante un enfrentamiento con el grupo armado que protegía el laboratorio. No hay responsabilidad: es un riesgo propio de su actividad. En cambio, si se le envía sin inteligencia previa, sin apoyo del batallón y sin las armas adecuadas («con un simple bolillo») y lo matan, hay falla del servicio y responsabilidad del Estado.
+
+- **Conscriptos (servicio militar obligatorio):** no deciden voluntariamente someterse al riesgo; prestan el servicio porque es una obligación legal. Por eso se les aplica responsabilidad objetiva (ver 6.5).
+
+### 6.4.3. Colisión de actividades peligrosas
+
+Si un vehículo del Estado atropella a un peatón, se aplica el riesgo excepcional (responsabilidad objetiva), sin discusión. Pero cuando tanto la víctima como el responsable ejercen una actividad peligrosa, se anula la aplicación de la responsabilidad objetiva.
+
+> **Ejemplo.** Mariana y John Jairo chocan, cada uno en su vehículo. No se puede aplicar responsabilidad objetiva, porque ambos podrían demandarse mutuamente con ese fundamento y no se sabría quién es el responsable. La pregunta no es quién causó el daño (ambos lo causaron, porque ambos conducían), sino quién incurrió en culpa: ¿quién violó las normas de tránsito, se pasó el semáforo o el pare, o iba con exceso de velocidad?
+
+Lo mismo ocurre en materia estatal: si un vehículo del Estado choca con el mío, el caso debe fallarse con base en la falla del servicio. Cuando hay colisión de actividades peligrosas se vuelve al régimen subjetivo: culpa en lo civil, falla del servicio en lo estatal.
+
+> **Comentario.** ¿Qué ocurre cuando hay culpas compartidas entre la víctima y el demandado? Es un problema de nexo causal y se aplica el art. 2357 del C.C. (concurrencia), como en el caso de la defensora que no esperó al escolta o en el del choque en el que uno se pasa el semáforo y el otro va borracho (se reduce la indemnización según la participación de la víctima). Y si la concurrencia es con un tercero, no exonera, por la solidaridad (ver Capítulo 5).
+
+### 6.4.4. Daños causados por actos terroristas
+
+**La lógica.** El daño lo causa, por acción, un grupo al margen de la ley: en principio es un hecho de un tercero, porque el Estado no es el terrorista. El Estado responde porque es un hecho de un tercero que no cumple los requisitos de la causa extraña: no es imprevisible o no es irresistible. Si el acto terrorista es imprevisible e irresistible, hay hecho exclusivo de un tercero y el Estado no responde. Si era previsible o resistible, el Estado responde por omisión, porque incurrió en falla del servicio (sabía que iba a haber un ataque y no hizo nada, o podía resistirlo y no lo hizo).
+
+> **Ejemplo.** El Palacio de Justicia (6 y 7 de noviembre de 1985). El M-19 ingresó al Palacio de Justicia. Los familiares de los magistrados que murieron demandaron al Estado y este fue condenado porque se demostró la falla del servicio con dos hechos: (i) un mes antes, en octubre, durante los operativos de seguridad por la visita a Bogotá de Mitterrand, mandatario de Francia, el Ejército encontró una guarida del M-19 con los planos del Palacio de Justicia, y no se hizo nada para reforzar su seguridad; (ii) por el contrario, se retiró la seguridad del Palacio. Según la versión oficial, el viernes anterior al ataque los organismos de seguridad se habrían reunido en el Palacio con el presidente de la Corte Suprema, Reyes Echandía (quien murió en los hechos), y él habría dado la instrucción de retirar la seguridad. Esa versión se demostró falsa en el proceso de reparación directa: a la hora de la supuesta reunión, Reyes Echandía estaba en Bucaramanga dictando clase en una especialización. El atentado era previsible y resistible, y no se hizo nada.
+
+> **Ejemplo.** El Club El Nogal: el Estado fue exonerado porque se demostró que el ataque no era resistible y, sobre todo, no era previsible (ver Capítulo 5, imprevisibilidad).
+
+**Primera discusión: la flexibilización probatoria y el «contexto de orden público».** La jurisprudencia del Consejo de Estado y de la Corte ha dicho que en estos casos es posible inferir la falla del servicio —la previsibilidad del ataque— a partir del contexto de orden público de la zona. La pregunta normal sería: ¿el Estado tenía conocimiento de que iba a haber una bomba?, ¿recibió amenazas?, ¿alguien pidió medidas de protección? Si la respuesta es no, en principio el Estado no responde. Con la tesis del contexto, aunque no haya amenazas ni solicitudes, se pregunta si la situación de orden público (por ejemplo, en Ipiales) era tan grave que el Estado debía saber que pondrían una bomba; si la respuesta es sí, se condena.
+
+> **Comentario.** Crítica: eso no es adecuado. Colombia ha vivido un contexto de guerra de 60 años; si el contexto de orden público bastara para demostrar la falla, en el Catatumbo (donde incluso hubo estado de excepción) el Estado debería responder por cualquier robo o muerte. Esa no puede ser la lógica. Aun defendiendo la responsabilidad objetiva del Estado, el problema de la «quiebra» del Estado no está en si el régimen es objetivo o subjetivo, sino en flexibilizar las pruebas y crear reglas de contexto que protegen a las víctimas sin ser juiciosos con el estudio de la falla ni de la causalidad: aunque el discurso defienda la falla del servicio, se condena con reglas flexibles en las que ni siquiera hay una falla clara. ¿Cómo aplicar entonces el artículo 90? Lo que sucede en el Catatumbo es un problema de hecho de un tercero: incluso con responsabilidad objetiva, si el ataque era imprevisible e irresistible, el Estado no responde; si el Estado sabía que pondrían una bomba y no hizo nada, responde. Si uno estudia con juicio la causa extraña, el Estado no tiene que responder por muchas cosas. La pregunta no es si en términos generales y abstractos el Estado podía prever o resistir ataques (por ejemplo, porque se le recortó el presupuesto al Ejército), sino qué podía hacer frente a ese ataque concreto y qué información previa tenía.
+
+> **Comentario.** La resistibilidad del ataque también depende de la capacidad del Estado frente a los grupos armados: cabe preguntarse hasta qué punto puede resistir si el otro lo supera en tecnología.
+
+> **Comentario.** Sobre la reserva de la información: la norma del CPACA que enumera las informaciones con reserva incluye en su numeral 1 la relacionada con la seguridad nacional, pero esa reserva cubre información como la contratación de armamento o la tecnología usada. Sobre hechos ya ocurridos y objeto de investigación no hay reserva: después de un atentado se puede pedir a la Fiscalía o al Ministerio de Defensa información sobre si antes del atentado alguien solicitó medidas de protección o radicó amenazas, o si se hicieron escaneos del espectro, lo que ayuda a determinar la responsabilidad.
+
+**Segunda discusión: ¿riesgo excepcional en ataques terroristas?** Todo el Consejo de Estado está de acuerdo en que a los ataques terroristas se les aplica la falla del servicio (la única discusión es si puede inferirse del contexto). Lo que sí está en discusión es si puede aplicarse el riesgo excepcional.
+
+> **Ejemplo.** Un grupo armado pone una bomba contra una estación de Policía y en el atentado muere un civil. Quienes defienden el riesgo excepcional dicen que el Estado responde porque el atentado iba dirigido contra una infraestructura representativa del Estado (o contra una figura representativa del Estado): la presencia de esa infraestructura o persona generó un riesgo excepcional y se rompió el equilibrio. La jurisprudencia está muy dividida: otros dicen que, contra quien sea que vaya dirigido, sigue siendo un problema de hecho de un tercero, y lo importante es si el ataque era previsible y resistible.
+
+> **Comentario.** Crítica: esa teoría no es consecuente con la causa extraña y genera una discriminación «completamente odiosa e injustificada»: si alguien lanza una granada en un salón de clase y todos mueren, sin información previa de amenazas, el Estado no responde; pero si en el salón estuviera estudiando un ministro, según esa tesis el Estado sí respondería por todos. Habría víctimas de primera y de segunda categoría. La presencia del ministro no cambia en nada el hecho dañoso: el problema debe girar en torno a si el atentado era o no previsible y resistible.
+
+> **Ejemplo.** En el caso de El Nogal también se propuso esa segunda imputación: los demandantes alegaron que allí solía hospedarse la entonces ministra de Defensa, Marta Lucía Ramírez, que hacía reuniones con la cúpula militar, de modo que el ataque iba realmente contra la cúpula. No fue necesario estudiarlo, porque se demostró que ni el día del atentado ni en los días previos la ministra estuvo alojada en El Nogal.
+
+### 6.4.5. Daños causados en enfrentamientos armados
+
+Hay que ser muy cuidadoso con el contexto específico: el hecho de que el daño provenga de un arma oficial no activa automáticamente el régimen objetivo.
+
+> **Ejemplo.** Caso 1. Un soldado que patrulla en la Plaza de Bolívar, en Bogotá, dispara por accidente su arma y hiere a un peatón. Se aplica el riesgo excepcional: daño causado por un arma de dotación oficial; responsabilidad objetiva.
+
+> **Ejemplo.** Caso 2. En una situación de orden público complicada, una persona armada se enfrenta con la Policía, que le pide entregar el arma, y la Policía la mata. Como ambos estaban armados, hay un enfrentamiento: se aplica la falla del servicio (¿la respuesta fue proporcional?, ¿se ajustó a los manuales?, ¿dispararon primero sin pedirle que entregara el arma?). Es la misma lógica de la colisión de actividades peligrosas: ambos usan instrumentos peligrosos, se anula el régimen objetivo y se vuelve a la falla.
+
+> **Ejemplo.** Caso 3. Hay un enfrentamiento entre el Ejército y un grupo armado, y una bala del Estado hiere a un campesino que pasaba por el lugar. Se ha dicho que la responsabilidad es objetiva: es un daño colateral que el campesino no está en el deber de soportar. Se llega por cualquiera de los dos caminos: riesgo excepcional (arma oficial) o daño especial (ruptura del equilibrio ante las cargas públicas).
+
+### 6.4.6. Daños causados por omisión en la prestación de medidas de protección
+
+Es un típico caso de falla del servicio, similar a los actos terroristas. Si un líder social recibe amenazas y lo matan en un atentado, el Estado solo responde si se demuestra la falla: que antes del atentado la persona solicitó medidas de protección o puso las amenazas en conocimiento del Estado. La gran pregunta, como en los actos terroristas, es si el contexto de orden público permite imputar responsabilidad: ¿por el solo hecho de ser líder social o de vivir en el Catatumbo, el Estado debía saber que tenía un riesgo más alto? Esas son las discusiones en este tipo de casos.
+
+### 6.4.7. Daños relacionados con la prevención de desastres
+
+El Estado no puede prevenir ni resistir un desastre natural (un terremoto, una erupción volcánica, una inundación, un tsunami), pero sí puede evitar sus consecuencias adversas si tenía información previa. El caso Armero, el volcán que explota sin que se activen las alertas o el tsunami del que no se informó a la población son típicos casos de falla del servicio. En los desastres naturales, la responsabilidad gira en torno a la falla del servicio.
+
+## 6.5. Regímenes de responsabilidad objetiva
+
+### 6.5.1. Actividades peligrosas (riesgo excepcional)
+
+Se aplica el riesgo excepcional ante actividades e instrumentos peligrosos, salvo que haya enfrentamiento o colisión de actividades peligrosas.
+
+### 6.5.2. Daños causados por armas de dotación oficial (excepto enfrentamientos)
+
+Ver los casos de la sección 6.4.5.
+
+### 6.5.3. Daños sufridos por internos
+
+No se trata de la privación injusta de la libertad ni del daño causado por la detención, sino del daño que sufre el interno estando recluido. Si en un motín apuñalan a un interno, se aplica responsabilidad objetiva, porque el Estado tiene una obligación de custodia de la persona privada de la libertad: custodia la cárcel, revisa si ingresan armas y tiene a los guardianes rondando.
+
+**La problemática de los suicidios.** En principio podría pensarse que el suicidio es un hecho exclusivo de la víctima, pero no todos los suicidios son imprevisibles ni irresistibles para el Estado.
+
+> **Ejemplo.** Primer caso: un privado de la libertad con problemas de comportamiento (seguramente psicológicos) es enviado a una celda de aislamiento y allí se golpea la cabeza durante dos horas hasta morir, sin que nadie lo detenga. Se condenó al Estado: podía evitarlo.
+
+> **Ejemplo.** Segundo caso: un interno sin ningún antecedente psicológico o depresivo se lanza de un cuarto piso de la cárcel. El Estado no tenía ninguna información previa de que atentaría contra su vida: hay hecho exclusivo de la víctima.
+
+### 6.5.4. Daños sufridos por conscriptos
+
+Al conscripto se le aplica responsabilidad objetiva: es irrelevante si hubo o no falla del servicio. El Consejo de Estado lo funda en un discurso similar al de la obligación de custodia del derecho civil: es el Estado quien custodia al conscripto durante la prestación del servicio, y debe devolverlo en las mismas condiciones físicas y mentales en que ingresó.
+
+> **Comentario.** ¿El título es daño especial o riesgo excepcional? Habría que verlo caso a caso; el Consejo de Estado es impreciso en eso y lo ha fundado más en la custodia (si el daño lo causa un arma, podría pensarse en riesgo excepcional).
+
+### 6.5.5. Daños causados por actividad lícita del Estado (daño especial)
+
+Son los daños causados por la actividad lícita del Estado que rompen el equilibrio ante las cargas públicas: el típico caso de daño especial.
+
+### 6.5.6. Daños causados por ocupación permanente (o temporal)
+
+No es relevante si hubo o no falla del servicio: lo importante es que el Estado construyó una obra en un predio sin permiso del propietario, y eso genera automáticamente responsabilidad objetiva.
+
+### 6.5.7. Daños causados por la ejecución de obra pública
+
+Construir puentes o hidroeléctricas son obras públicas que se consideran actividad peligrosa; por eso permiten imputar responsabilidad bajo un régimen objetivo.
+
+### 6.5.8. Daños causados por la revocatoria de actos administrativos
+
+La revocatoria de actos preparatorios en actuaciones administrativas es un caso de daño especial.
+
+> **Ejemplo.** Los huevos incautados. Usted es dueño de una empresa de alimentos y vende huevos en todo el país. La DIAN incauta un camión de huevos porque considera que no pagó determinado impuesto, contribución o tema aduanero. Los huevos duran incautados un año y el procedimiento administrativo concluye a su favor: sí había pagado. El procedimiento fue completamente lícito (la DIAN podía ordenar la incautación), pero los huevos eran perecederos y ya no sirven para nada: hay daño especial y responsabilidad objetiva.
