@@ -1,4 +1,4 @@
-\documentclass[11pt,a4paper,twoside,openright]{book}
+\documentclass[11pt,a4paper,twoside,openany]{book}
 \usepackage{fontspec}
 \usepackage{polyglossia}
 \setdefaultlanguage{spanish}
@@ -11,6 +11,8 @@
 \newunicodechar{÷}{\ensuremath{\div}}
 \usepackage[a4paper,textwidth=14.5cm,textheight=23cm,inner=3cm,headsep=1cm]{geometry}
 \usepackage{microtype}
+\raggedbottom
+\let\cleardoublepage\clearpage
 \usepackage[table]{xcolor}
 \colorlet{navy}{black}
 \usepackage{xltabular}
@@ -29,7 +31,7 @@
 \fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\thepage}}
 \usepackage[hidelinks]{hyperref}
 \hypersetup{pdftitle={Responsabilidad extracontractual del Estado -- Manual},pdfauthor={Juliana Hernández Galvis}}
-\newenvironment{bloque}[1]{\par\smallskip\begin{list}{}{\leftmargin=1.5em\rightmargin=0pt}\item[]\textsc{#1.}\ }{\end{list}\smallskip}
+\newenvironment{bloque}[1]{\begin{list}{}{\leftmargin=1.5em\rightmargin=0pt\topsep=3pt\partopsep=0pt}\item[]\textsc{#1.}\ }{\end{list}}
 \newenvironment{definicion}{\begin{bloque}{Definición}}{\end{bloque}}
 \newenvironment{ejemplo}{\begin{bloque}{Ejemplo}}{\end{bloque}}
 \newenvironment{comentario}{\begin{bloque}{Comentario}}{\end{bloque}}
