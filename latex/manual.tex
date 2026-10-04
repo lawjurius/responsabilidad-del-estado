@@ -11,15 +11,17 @@
 \newunicodechar{÷}{\ensuremath{\div}}
 \usepackage[a4paper,textwidth=14.5cm,textheight=23cm,inner=3cm,headsep=1cm]{geometry}
 \usepackage{microtype}
+\usepackage{sectsty}\allsectionsfont{\raggedright}
 \raggedbottom
 \let\cleardoublepage\clearpage
 \usepackage[table]{xcolor}
 \colorlet{navy}{black}
-\usepackage{xltabular}
+\usepackage{array,etoolbox,longtable}
+\setlength{\LTpre}{4pt}\setlength{\LTpost}{4pt}
 \renewcommand{\arraystretch}{1.25}
 \usepackage{enumitem}
 \setlist{itemsep=1pt,topsep=4pt}
-\setcounter{secnumdepth}{2}
+\setcounter{secnumdepth}{0}
 \setcounter{tocdepth}{1}
 \usepackage{fancyhdr}
 \pagestyle{fancy}\fancyhf{}
@@ -31,13 +33,21 @@
 \fancypagestyle{plain}{\fancyhf{}\fancyfoot[C]{\thepage}}
 \usepackage[hidelinks]{hyperref}
 \hypersetup{pdftitle={Responsabilidad extracontractual del Estado -- Manual},pdfauthor={Juliana Hernández Galvis}}
-\newenvironment{bloque}[1]{\begin{list}{}{\leftmargin=1.5em\rightmargin=0pt\topsep=3pt\partopsep=0pt}\item[]\textsc{#1.}\ }{\end{list}}
-\newenvironment{definicion}{\begin{bloque}{Definición}}{\end{bloque}}
-\newenvironment{ejemplo}{\begin{bloque}{Ejemplo}}{\end{bloque}}
-\newenvironment{comentario}{\begin{bloque}{Comentario}}{\end{bloque}}
+% El contenido viene del Word: se neutralizan sus colores para un libro en blanco y negro.
+\renewcommand{\textcolor}[3][]{#3}
+\let\celdacolor\cellcolor
+\renewcommand{\cellcolor}[2][]{\ifstrequal{#2}{1F3864}{\celdacolor[gray]{0.88}}{}}
+\newenvironment{bloque}{\begin{list}{}{\leftmargin=1.5em\rightmargin=0pt\topsep=3pt\partopsep=0pt\parsep=4pt}\item[]}{\end{list}}
+\newenvironment{definicion}{\begin{bloque}}{\end{bloque}}
+\newenvironment{ejemplo}{\begin{bloque}}{\end{bloque}}
+\newenvironment{comentario}{\begin{bloque}}{\end{bloque}}
+\newenvironment{ampliacion}{\begin{bloque}}{\end{bloque}}
+\newenvironment{precision}{\begin{bloque}}{\end{bloque}}
 \newenvironment{cita}{\begin{quote}\small}{\end{quote}}
-\newcommand{\formula}[1]{\begin{center}\itshape #1\end{center}}
-\newcommand{\fuente}[1]{{\footnotesize\itshape #1\par}}
+\newenvironment{formula}{\begin{center}\itshape}{\end{center}}
+\newenvironment{tabla}{\par\smallskip\small\setlength{\parskip}{2pt}}{\par\smallskip}
+\newcommand{\capitulo}[2]{\chapter{#2}}
+\newcommand{\presentacion}[1]{\chapter*{#1}\addcontentsline{toc}{chapter}{#1}\markboth{#1}{}}
 \begin{document}
 \frontmatter
 \begin{titlepage}\centering
